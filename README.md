@@ -1,0 +1,2 @@
+# exercise
+a simple exercise
